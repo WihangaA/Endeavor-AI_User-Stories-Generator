@@ -1,2 +1,0 @@
-With new product on-boarded, we're expecting huge increase in size of application. If performance not tested correctly, there are some chances of service loss on the application.
-System X doesn't have performance test environment yet. With new products launch, we would require the performance of application tested.
