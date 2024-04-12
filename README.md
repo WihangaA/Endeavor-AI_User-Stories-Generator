@@ -17,10 +17,10 @@ Endeavor AI is a tool designed to generate user stories with ease. This applicat
 * Run the application
 
 ## 3. Usage ##
-* Upon running the application, users are presented with two modes: Text Method and Upload Method
-* __Text Method:__ Enter user requirements in the provided text area and click "Generate" to generate user stories
-* __Upload Method:__ Upload a text file, audio file, or email file. User stories will be generated based on the content of the uploaded file
-* __Chat Method:__ Interact with Endeavor AI in a chat interface to generate user stories step-by-step
+* Upon running the application, users are presented with three modes: Text Method, Upload Method & Chat Method
+ * __Text Method:__ Enter user requirements in the provided text area and click "Generate" to generate user stories
+ * __Upload Method:__ Upload a text file, audio file, or email file. User stories will be generated based on the content of the uploaded file
+ * __Chat Method:__ Interact with Endeavor AI in a chat interface to generate user stories step-by-step
 
 ## 4. Credit ##
 * __Streamlit:__ The application interface is built using Streamlit.
